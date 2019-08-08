@@ -1,2 +1,2 @@
-# rna
+# RNA
 RNA Tools Repository
