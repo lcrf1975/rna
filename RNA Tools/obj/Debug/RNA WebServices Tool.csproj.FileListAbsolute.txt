@@ -1,0 +1,51 @@
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA WebServices Tool.csprojResolveAssemblyReference.cache
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form1.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form2.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form3.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Properties.Resources.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA WebServices Tool.csproj.GenerateResource.Cache
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form4.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.exe.config
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.exe
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.pdb
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.exe
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.pdb
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.exe.config
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.exe
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA_Tools.pdb
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\EPPlus.dll
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\Geocoding.dll
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\SharpKml.dll
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\EPPlus.xml
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\SharpKml.xml
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form1.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form2.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form3.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form4.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form5.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Properties.Resources.resources
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA WebServices Tool.csproj.GenerateResource.Cache
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.exe
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.pdb
+C:\Users\Luciano\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA WebServices Tool.csprojResolveAssemblyReference.cache
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\RNA_Tools.exe.config
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\RNA_Tools.exe
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\RNA_Tools.pdb
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\EPPlus.dll
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\Geocoding.dll
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\EPPlus.xml
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA WebServices Tool.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Form1.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Form2.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Form3.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Form4.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Form5.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.Properties.Resources.resources
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA WebServices Tool.csproj.GenerateResource.cache
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA WebServices Tool.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA WebServices Tool.csproj.CopyComplete
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.exe
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\obj\Debug\RNA_Tools.pdb
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\SharpKml.Core.dll
+C:\Users\Luciano\source\repos\RNA Tools\RNA Tools\bin\Debug\SharpKml.Core.xml

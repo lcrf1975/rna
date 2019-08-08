@@ -1,0 +1,10 @@
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form1.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Form2.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA_Tools.Properties.Resources.resources
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA Tools.csproj.GenerateResource.Cache
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA Tools.exe.config
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA Tools.exe
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\bin\Debug\RNA Tools.pdb
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA Tools.exe
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA Tools.pdb
+C:\Users\Luciano Fontes\Documents\Visual Studio 2015\Projects\RNA\RNA Tools\obj\Debug\RNA Tools.csprojResolveAssemblyReference.cache
